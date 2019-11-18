@@ -1,11 +1,8 @@
-// *************************** YOUR CODE BELOW *******************************
-//******************TEST EARLY AND OFTEN USING console.log() ******************
-//****************** SERIOUSLY TEST USING console.log()!!! ******************
-
-//GLOBAL VARIABLES
-/* global $ */
+$("#button1).click(function()) 
+var rock = Math.random();
 
 
-
-// DOCUMENT READY FUNCTION BELOW
-
+console.log(rock);
+if(rock > .50) {
+    $("#text").html("")
+}
